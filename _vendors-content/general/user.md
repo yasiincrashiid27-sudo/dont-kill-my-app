@@ -1,9 +1,18 @@
+7wye7121212121212121212
+31313131313131310101010
+6w6272w718k9
+262828jjja8
+3174yw66729
+7eiw7628299
+727y2y72ui8
 ---
 manufacturer:
-    - general
+ 7e7272
+ u2u2uu
+ iwi- general
 ---
 
-### Android 6+
+#somalitiktok Android 6+
 
 Always check the following setting:
 
